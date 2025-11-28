@@ -1,0 +1,9 @@
+{
+  "name": "Kali Linux Simulation",
+  "description": "A high-fidelity, cinema-grade hacker simulation operating system for film production sets.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
